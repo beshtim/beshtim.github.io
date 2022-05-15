@@ -5,12 +5,94 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:58:58 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 15:29:21 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://example.com/post/presentation/</link>
+      <pubDate>Sun, 15 May 2022 15:29:21 +0300</pubDate>
+      <guid>https://example.com/post/presentation/</guid>
+      <description>&lt;h2 id=&#34;1-create-an-easy-to-follow-structure&#34;&gt;1. Create an easy-to-follow structure&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;When it comes to what you have to say, break it down into three simple sections: your presentation needs an introduction, body, and conclusion.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A compelling introduction. Your introduction needs to briefly sum up what you’re going to talk about and why it’s useful or relevant to your audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Offer a body of evidence. The body of your presentation is where you hit ’em with the facts, quotes, and evidence to back up your main points.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sum up with key takeaways. The conclusion is where you loop back to your original statement and give the audience some key takeaways on how they can put into practice what they’ve learned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No more than 10 slides in total. Who wants to sit through pages and pages of slides? No one, that’s who. By keeping your slide deck to 10 slides, even if your presentation is 30 minutes long, you’ll give the audience a chance to digest the on-screen messages in line with your talk. Using concept maps before structuring your slides can help keep to the point.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-limit-the-amount-of-copy-on-each-slide&#34;&gt;2. Limit the amount of copy on each slide&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Less really is more, especially when it comes to making a good presentation. Too much text and the audience will just be reading the screen instead of looking at you and feeling the emotional impact of your message.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;No more than six words per slide. Marketing king Seth Godin says we should have just six words per slide – that’s not a lot of copy. Choose your words carefully and rewrite until you’ve got it just right.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Think ‘bite-size’ information. We called ourselves Biteable a reason: studies have shown that information is retained better when it’s broken down into bite-sized chunks. Video is a great way to learn and research suggests it’s 95% more compelling than text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-be-savvy-with-design-details&#34;&gt;3. Be savvy with design details&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;A good design can make or break a presentation. If you haven’t got the budget for a designer, presentation tools such as Visme or Canva will help you make great slides, and Pexels or Unsplash offer stunning royalty-free images.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Use color sparingly. Bright colors can dazzle, but too many can be offputting. Use the colors most relevant to your message. We’d recommend sticking with one or two (not counting black and white) for your palette so it has a consistent look and feel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be consistent with your font. Consistent design makes you look more professional. Don’t switch between caps and lower case, Times New Roman and Comic Sans, or 8 and 30 point text size. Stick with one font and one size throughout. You can vary the emphasis with your words later, but keep your on-screen text uniform for a more cohesive message.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Format for perfection. A wonky line on a slide or a badly pixelated graphic will put some people off, as it will look like you haven’t tried very hard (or worse, that you just aren’t very good). Make sure your text is aligned and neat like in the example below.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-polish-several-times&#34;&gt;4. Polish several times&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Just like some well-worn shoes, a good presentation often needs a few rounds of dusting before it’s all shiny and sparkly.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Start Messy. Don’t be afraid to start messy. Using a non-linear writing tool like Milanote allows you to explore and outline your initial ideas in a flexible way before you even open up Powerpoint or Keynote. Arrange your ideas side-by-side and discover new connections that you didn’t see before.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Edit ruthlessly. At first you might have a huge amount of information and will wonder how you’re ever going get it down to six words per slide. That’s OK. Keep editing ruthlessly until you’ve pared your message down to the bare essentials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Get someone else to look at it. A fresh pair of eyes can work miracles when it comes to refining your presentation. Get a trusted mentor or colleague to review your work. If you don’t know anyone who can help, an online writing assistant like ProWritingAid or Grammarly can help you weed out a lot of problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 09.05-15.05</title>
+      <link>https://example.com/post/091505/</link>
+      <pubDate>Sun, 15 May 2022 15:23:51 +0300</pubDate>
+      <guid>https://example.com/post/091505/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Repaired the roof on the cottage.&lt;/li&gt;
+&lt;li&gt;Studied.&lt;/li&gt;
+&lt;li&gt;Started working on a new project at work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;It was awesome.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LaTeX</title>
