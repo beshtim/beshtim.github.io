@@ -1,9 +1,9 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Timofey",
+  "short_name": "Timofey",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "rgb(0, 136, 204)",
+  "background_color": "rgb(0, 136, 204)",
   "icons": [{
     "src": "/media/icon_hu55457d2a4224e52e35da39439c8143ae_727_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
